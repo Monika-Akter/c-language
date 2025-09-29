@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    //1000
+    printf("Hello World!\n");
+
+    return 0;
+}
